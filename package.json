@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "google-map-react": "^0.25.0",
+    "griddle-react": "^1.11.1",
     "react": "^16.1.1",
     "react-data-grid": "^2.0.76",
     "react-dom": "^16.1.1",
